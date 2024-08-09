@@ -1,2 +1,8 @@
-# Todo-app-React.Jsx
- Todo-app - A Simple React Note-Taking App NewNote is a React-based note-taking application that allows users to add, view, and manage their notes with ease. The app features a clean and user-friendly interface, built using Material-UI components.  Features Dynamic Note Creation: Add notes with a title and content that dynamically expand as you type. Trim Functionality: Automatically trims unnecessary whitespace from the title and content before saving the note. Interactive UI: Smooth transitions and animations for an enhanced user experience, using Material-UI's Zoom and Fab components. Expandable Input: The input field for notes expands when clicked, providing a seamless note-taking experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
